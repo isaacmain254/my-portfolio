@@ -92,15 +92,15 @@ function Home() {
           id="home"
           className="flex  relative flex-col mt-48 mb-44 ml-40  max-md:ml-0 max-md:px-4 max-w-full text-xl font-bold w-[771px] max-md:mb-0"
         >
-          <div className="font-light max-md:max-w-full">Hello I'm a,</div>
+          <div className="font-light max-md:max-w-full">Hello I&apos;m a,</div>
           <div className="mt-5 text-6xl text-green-600 max-md:max-w-full max-md:text-4xl">
             Software <span className="text-green-600">developer</span>
           </div>
           <div className="mt-6 max-md:max-w-full font-normal text-base">
-            Hi I’m Isaac Maina a software developer based in Kenya. I offer
+            Hi I&apos;m Isaac Maina a software developer based in Kenya. I offer
             software solutions in web and mobile applications.
             <br />
-            Let’s turn your ideas into a market ready product.
+            Let&apos;s turn your ideas into a market ready product.
           </div>
           <a href="#portfolio" className="w-fit">
             <Button>View portfolio</Button>
@@ -128,15 +128,15 @@ function Home() {
                 About me
               </div>
               <div className="mt-8 text-lg font-normal text-black max-md:max-w-full">
-                I'm a software developer with a Computer Science degree,
+                I&apos;m a software developer with a Computer Science degree,
                 specializing in web and mobile application development with the
-                latest technologies. I'm always learning new stuff, especially
+                latest technologies. I&apos;m always learning new stuff, especially
                 in an industry that changes so rapidly. My passion lies in
-                digital products, and through development, I've found a
-                captivating way to be a part of that world. I'm deeply
+                digital products, and through development, &apos;ve found a
+                captivating way to be a part of that world. I&apos;m deeply
                 passionate about crafting software solutions that align with
                 business needs. My greatest strength is my ability to interpret
-                clients' requirements, design, code, and rigorously test
+                clients&apos; requirements, design, code, and rigorously test
                 software to ensure it meets their needs.
               </div>
               <div className="flex gap-5  mt-18 max-md:flex-wrap max-md:mt-10 max-md:max-w-full">
@@ -192,7 +192,7 @@ function Home() {
                   </div>
                   <div className="mt-6 text-base">
                     I develop full-stack applications using Django and Node.js,
-                    tailored to each client's unique needs for high-quality
+                    tailored to each client&apos;s unique needs for high-quality
                     solutions that exceed their expectations.
                   </div>
                 </div>
@@ -208,7 +208,7 @@ function Home() {
                   <div className="mt-6 text-base">
                     I develop custom API applications using Django REST
                     framework and Node.js, integrating other APIs to create
-                    high-quality solutions that meet each client's unique needs.
+                    high-quality solutions that meet each client&apos;s unique needs.
                   </div>
                 </div>
               </div>

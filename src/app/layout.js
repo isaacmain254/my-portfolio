@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Isaac Maina",
-  description: "I’m Isaac Maina a software developer based in Kenya. I offer software solutions in web and mobile applications.Let’s turn your ideas into a market ready product",
+  description: "I'm Isaac Maina a software developer based in Kenya. I offer software solutions in web and mobile applications.Let’s turn your ideas into a market ready product",
 };
 
 export default function RootLayout({ children }) {
